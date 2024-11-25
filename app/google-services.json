@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "968369277894",
+    "project_id": "cropharv-f046a",
+    "storage_bucket": "cropharv-f046a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968369277894:android:7b45102ea4f6b5b64240c7",
+        "android_client_info": {
+          "package_name": "com.miniproject.cropharv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQHsYuVHH2vASI6eBUlaIzgFsNHnvHaS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
